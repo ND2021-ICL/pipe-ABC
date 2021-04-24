@@ -12,7 +12,7 @@ Supervisor: Dr. Ruben Perez-Carrasco
 
 #### Background and Aims: 
 
-The gene regulatory network comprising of Sonic Hedgehog (Shh), Gli, Nkx2.2, Olig2, Irx3, and Pax6controls motor neuron (MN) differentiation during embryonic development and occurs approximately 2.5 times faster in mice than in humans. A previous study attributed this to differences in protein degradation and defined a mathematical model to describe the network. The aim of this study was to re-analyse raw RNA-seq reads from this study; characterise a mathematical relationship between rate of MN differentiation and development stage (time-factor); build and infer the parameters of a mathematical model describing the gene regulatory network.
+The gene regulatory network comprising of Sonic Hedgehog (Shh), Gli, Nkx2.2, Olig2, Irx3, and Pax6controls motor neuron (MN) differentiation during embryonic development and occurs approximately 2.5 times faster in mice than in humans. A previous study (Rayon et al., 2020) attributed this to differences in protein degradation and defined a mathematical model to describe the network. The aim of this study was to re-analyse raw RNA-seq reads from this study; characterise a mathematical relationship between rate of MN differentiation and development stage (time-factor); build and infer the parameters of a mathematical model describing the gene regulatory network.
 
 #### Methods: 
 
