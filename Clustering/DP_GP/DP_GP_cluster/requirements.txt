@@ -1,7 +1,0 @@
-cython
-matplotlib
-numpy
-pandas
-scipy>= 0.14
-sklearn
-GPy>= 0.8.8
