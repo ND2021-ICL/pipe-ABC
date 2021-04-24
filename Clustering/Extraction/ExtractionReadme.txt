@@ -4,4 +4,10 @@ This directory contains the Jupyter notebook file which details all 4 Python scr
 
 It also contains the relevant .csv files detailed in the notebook, for further context as to what was being produced and provided with these scripts
 
+Prerequisites to run scripts:
+
+Python 3.8
+
+csv, numpy and pandas
+
 ######
