@@ -5,6 +5,7 @@ A group repository containing all 4 elements of our project at Imperial College 
 ## Characterizing inter-species kinetics during neuronal differentiation
 
 Authors: Nicholas McQuibban [NM], Abhranil Maiti [AM], Joshua Mayne [JM], Maisey Davidson [MD]
+
 Supervisor: Dr. Ruben Perez-Carrasco
 
 ### Abstract
