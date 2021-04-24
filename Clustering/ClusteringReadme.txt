@@ -1,10 +1,14 @@
 #######
 
-This folder contains all files related to the DP_GP Clustering used in ND2021
+This directory contains all files related to the DP_GP Clustering used in ND2021
+
+Extraction contains all scripts related to retrieving the relevant genes from specific gene ontologies, which were then matched to the readcounts from the .csv files found in RNASeqPipeline
 
 DP_GP_cluster contains the original LICENSE and cloned files required to run the program, although it can also be retrieved by visiting their repository directly at  https://github.com/PrincetonUniversity/DP_GP_cluster
 
-The human and mouse directories contain the results of running DP_GP on our data from RNASeqPipeline.
+The human and mouse directories contain the results of running DP_GP on our data from RNASeqPipeline
+
+#######
 
 Software prerequisites:
 
