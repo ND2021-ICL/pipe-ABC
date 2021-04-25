@@ -1,6 +1,6 @@
 # pipe-ABC
 
-A group repository containing all 4 elements of our project at Imperial College London, completed in 2021.
+A group repository containing all 4 elements of our project, focusing on neuronal differentiation, at Imperial College London, completed in 2021.
 
 ## Characterizing inter-species kinetics during neuronal differentiation
 
