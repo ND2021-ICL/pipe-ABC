@@ -65,3 +65,5 @@ Data files needed (not included)
 - The 8 csvs of results listed above 
 
 #######
+
+Email maiseydavidson99@gmail.com for any questions/ clarifications about the code!
